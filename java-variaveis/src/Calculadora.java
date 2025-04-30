@@ -15,7 +15,20 @@ public class Calculadora {
       //  System.out.println("40% de " + valor + " é: " + percentual);
       //  System.out.println("60% de " + valor + " é: " + percentual2);
       //  System.out.println("O valor do módulo 1 (2600 % 40) é: " + modulo1);
-       //  System.out.println("O valor do módulo 2 (2600 % 60) é: " + modulo2);  
+       //  System.out.println("O valor do módulo 2 (2600 % 60) é: " + modulo2); // unário
+       //int a,b;
+        
+         //a = 15;
+         //b = 15;
+
+         //String resultado = a==b ?"verdadeiro" : "falso"; //Expressão ternária- boolena
+         
+         
+                                                                  
+             // System.out.println("O resultado é:"+ resultado);
+
+       
+       
     
 
     }
